@@ -39,15 +39,24 @@ Each dashboard provides the following:
 ## 🌎 Key Insights
 
 ### United States (US)
+
+<img src="US_SS.png" width=1000>
+
 - Leads in employee count (330) and offers high average salaries.
 - Top-paying roles: **Applied Data Scientist, Analytics Engineer**, etc.
 - Predominantly full-time employment and senior-level professionals.
 
 ### Japan (JP)
+
+<img src="JP_SS.png" width=1000>
+
 - ML Engineer roles are concentrated in **small companies** with **100% full-time employment**.
 - High salary for **Machine Learning Scientist** ($260,000).
 
 ### India (IN)
+
+<img src="IN_SS.png" width=1000>
+
 - High representation of **entry-level and intermediate** professionals.
 - Most jobs are **full-time (95.83%)** in **large companies**.
 - Highest-paid roles include **Head of Machine Learning** and **Data Science Manager**.
