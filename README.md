@@ -1,7 +1,7 @@
 # Jobs_Salary_Analysis
 # Jobs Salary Dashboard
 
-
+<img src="Jobs Salary Dashboard.png" width=1000>
 
 ## 📊 Project Overview
 
